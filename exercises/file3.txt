@@ -1,8 +1,9 @@
-﻿Hello
+﻿Class test
+{
+public static void main(String args[])
+{
+int i=2;
+System.out.println(i);
+}
+}
 
-heyyyyy
-<<<<<<< HEAD
-
-=======
-i=7;
->>>>>>> br1
